@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-31T14:16:48.460Z'
+datePublished: '2016-05-31T14:16:48.944Z'
 sourcePath: _posts/2016-04-15-airbnbs-coolest-tiny-houses-in-america.md
 inFeed: true
 isBasedOnUrl: 'https://www.thrillist.com/travel/nation/airbnbs-coolest-tiny-houses-in-america/travel'
@@ -20,7 +20,7 @@ author:
   - name: Nadia Imafidon
     url: 'https://www.thrillist.com/authors/nadia-imafidon'
     avatar: {}
-dateModified: '2016-05-31T14:16:43.907Z'
+dateModified: '2016-05-31T14:16:42.014Z'
 title: "Airbnb's Coolest Tiny Houses in America"
 app_links:
   - type: iphone
