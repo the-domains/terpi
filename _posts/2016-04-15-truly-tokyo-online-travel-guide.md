@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-31T14:16:49.186Z'
+datePublished: '2016-05-31T14:16:49.353Z'
 sourcePath: _posts/2016-04-15-truly-tokyo-online-travel-guide.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/travel/truly-tokyo-online-travel-guide'
@@ -17,7 +17,7 @@ keywords:
   - asaba
 related: []
 author: []
-dateModified: '2016-05-31T14:16:48.647Z'
+dateModified: '2016-05-31T14:16:48.629Z'
 title: Truly Tokyo Online Travel Guide
 app_links: []
 publisher:
