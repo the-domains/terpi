@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-31T14:16:49.485Z'
+datePublished: '2016-05-31T14:16:49.680Z'
 sourcePath: _posts/2016-04-15-travel-smarter-the-backpack-that-doubles-as-a-mobile-office.md
 inFeed: true
 isBasedOnUrl: 'http://fathomaway.com/postcards/stuff/this-is-ground-venture-travel-office-backpack/'
@@ -21,7 +21,7 @@ author:
   - name: Berit Baugher
     url: 'http://fathomaway.com/author/berit-baugher/'
     avatar: {}
-dateModified: '2016-05-31T14:16:48.740Z'
+dateModified: '2016-05-31T14:16:48.802Z'
 title: 'Travel Smarter: The Backpack That Doubles as a Mobile Office'
 app_links: []
 publisher:
